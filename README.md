@@ -2,20 +2,19 @@
 
 Responsive NFT Website featured wuth smooth styling, ScrollReveal animations, and a mobile-first design. Fully compatible across devices with a clean, user-friendly interface.
 
-**Live Website:** [https://kethnulee-weerasinghe.github.io/Portfolio-Website/](https://kethnulee-weerasinghe.github.io/Portfolio-Website/)
+**Live Website:** [https://kethnulee-weerasinghe.github.io/NFT-Website/](https://kethnulee-weerasinghe.github.io/NFT-Website/)
 
 ![Portfolio Website Screenshot](./preview.png)
 
 ## Overview
 
-This website serves as a personal portfolio to present my professional profile and capabilities as a frontend developer. It includes:
+This project showcases a modern landing page design for an NFT-related product or platform. It is built to highlight featured content, calls to action, and brand messaging with visual appeal and responsive behavior.
 
-- Selected project showcases with links to GitHub repositories
-- Downloadable resume
-- Timeline-based education history
-- Categorized technical skills
-- Fully responsive design across all devices
-- Functional contact form using Web3Forms
+- Smooth scroll-based animations using ScrollReveal
+- Animated navigation and interactive UI elements
+- Mobile-first responsive layout
+- Clean and minimal visual design
+- Optimized for performance and accessibility
 
 ## Technologies Used
 
