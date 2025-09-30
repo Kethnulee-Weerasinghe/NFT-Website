@@ -29,4 +29,4 @@ To run this project on your local machine:
 
 ```bash
 git clone https://github.com/Kethnulee-Weerasinghe/NFT-Website.git
-cd Portfolio-Website
+cd NFT-Website
