@@ -1,12 +1,32 @@
 # Responsive NFT Website Design
-## [Watch it on youtube](https://youtu.be/eDm7l5ODWuU)
-### Responsive NFT Website Design
 
-![preview img](/preview.png)
+Responsive NFT Website featured wuth smooth styling, ScrollReveal animations, and a mobile-first design. Fully compatible across devices with a clean, user-friendly interface.
 
-- Responsive NFT Website Design Using HTML CSS & JavaScript
-- Contains CSS & ScrollReveal animations.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+**Live Website:** [https://kethnulee-weerasinghe.github.io/Portfolio-Website/](https://kethnulee-weerasinghe.github.io/Portfolio-Website/)
 
-![preview img](/preview.png)
+![Portfolio Website Screenshot](./preview.png)
+
+## Overview
+
+This website serves as a personal portfolio to present my professional profile and capabilities as a frontend developer. It includes:
+
+- Selected project showcases with links to GitHub repositories
+- Downloadable resume
+- Timeline-based education history
+- Categorized technical skills
+- Fully responsive design across all devices
+- Functional contact form using Web3Forms
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Running the Project Locally
+
+To run this project on your local machine:
+
+```bash
+git clone https://github.com/Kethnulee-Weerasinghe/NFT-Website.git
+cd Portfolio-Website
