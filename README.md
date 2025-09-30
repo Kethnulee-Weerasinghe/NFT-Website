@@ -1,4 +1,4 @@
-# Responsive NFT Website Design
+# Responsive NFT Website
 
 Responsive NFT Website featured wuth smooth styling, ScrollReveal animations, and a mobile-first design. Fully compatible across devices with a clean, user-friendly interface.
 
