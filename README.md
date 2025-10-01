@@ -8,7 +8,7 @@ The project features smooth CSS styling and ScrollReveal animations, developed w
 
 ## Overview
 
-This project showcases a modern landing page design for an NFT-related product or platform. It is built to highlight featured content, calls to action, and brand messaging with visual appeal and responsive behavior.
+The project features smooth CSS styling and ScrollReveal animations, developed with a mobile-first approach before scaling up for desktop. It is built to highlight featured content, calls to action, and brand messaging with visual appeal and responsive behavior.
 
 - Smooth scroll-based animations using ScrollReveal
 - Animated navigation and interactive UI elements
