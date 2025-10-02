@@ -1,5 +1,6 @@
 # NFT Website
 
+A smooth, mobile‑first front‑end project built with HTML, CSS, and JavaScript. Features scroll‑based animations, interactive UI components, and a clean, minimal design that emphasizes performance and accessibility. Demonstrates proficiency in building visually engaging and responsive web experiences optimized across devices.
 
 **Live Website:** [https://kethnulee-weerasinghe.github.io/NFT-Website/](https://kethnulee-weerasinghe.github.io/NFT-Website/)
 
@@ -19,9 +20,9 @@
 - CSS
 - JavaScript
 
-## Running the Project Locally
+## Running Locally
 
-To run this project on your local machine:
+To view or edit the project locally:
 
 ```bash
 git clone https://github.com/Kethnulee-Weerasinghe/NFT-Website.git
