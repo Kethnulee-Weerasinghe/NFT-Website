@@ -8,6 +8,8 @@ A smooth, mobile‑first front‑end project built with HTML, CSS, and JavaScrip
 
 ## Overview
 
+This project aims to showcase strong UI and front-end skills via a mock NFT website. The site adapts across devices, has smooth animations, and provides a visually engaging browsing experience.
+
 - Smooth scroll-based animations using ScrollReveal
 - Animated navigation and interactive UI elements
 - Mobile-first responsive layout
@@ -27,3 +29,4 @@ To view or edit the project locally:
 ```bash
 git clone https://github.com/Kethnulee-Weerasinghe/NFT-Website.git
 cd NFT-Website
+```
