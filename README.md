@@ -10,11 +10,11 @@ A smooth, mobile‑first front‑end project built with HTML, CSS, and JavaScrip
 
 This project aims to showcase strong UI and front-end skills via a mock NFT website. The site adapts across devices, has smooth animations, and provides a visually engaging browsing experience.
 
-- Smooth scroll-based animations using ScrollReveal
 - Animated navigation and interactive UI elements
-- Mobile-first responsive layout
 - Clean and minimal visual design
+- Mobile-first responsive layout
 - Optimized for performance and accessibility
+- Smooth scroll-based animations using ScrollReveal
 
 ## Technologies Used
 
